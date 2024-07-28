@@ -1,0 +1,9 @@
+h1 {
+	color: #ffffff;  
+	background-color: #000000;
+}	
+/*RGB ffffff = 하얀색-->*/
+body {
+	background-color: pink; 
+	font-family: 바탕체; 
+}/* 여러페이지에 똑같은 스타일을 적용 가능 --><!--바디의 자식태그들은 다 적용됨-->*/
